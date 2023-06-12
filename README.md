@@ -6,4 +6,4 @@ MCU: STM32F103C8T6 <br>
 Frequency: 72MHz <br>
 Used Timer: Timer2 <br>
 ### Result
-Blink Led user delay_timer: https://youtu.be/kRlAt2aWzBs <br>
+Blink Led uses delay_timer: https://youtu.be/kRlAt2aWzBs <br>
