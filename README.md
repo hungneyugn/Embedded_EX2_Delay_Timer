@@ -2,6 +2,6 @@
 ### OverView
 Create delay function using timer 
 ### Detail
-MCU: STM32F103C8T6
-Frequency: 72MHz
-Used Timer: Timer2
+MCU: STM32F103C8T6 <br>
+Frequency: 72MHz <br>
+Used Timer: Timer2 <br>
