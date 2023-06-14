@@ -1,4 +1,4 @@
-# Embedded_EX3_Delay_Timer
+# Embedded_EX2_Delay_Timer
 ### OverView
 Create delay function using timer 
 ### Detail
